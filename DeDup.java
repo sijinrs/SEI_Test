@@ -118,7 +118,7 @@ public class DeDup {
 	
 	
 	/**
-	 * This method first sorts the array then finds the distinct value, so this is better than the first method which does not sort.  
+	 * This method first sorts the array then finds the distinct value, so this is better than the first method - retrieveDistinctIntegers which does not sort.  
 	 * 
 	 */
 	
